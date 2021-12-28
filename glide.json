@@ -4,7 +4,7 @@
   "author": "Darren Murphy <darren@victoriajd.com>",
   "params": [
     {
-      "name": "total_mins",
+      "name": "total",
       "displayName": "Total Number of Minutes",
       "type": "number"
     }
